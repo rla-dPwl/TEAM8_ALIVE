@@ -1,6 +1,5 @@
 # TEAM8_ALIVE
-2022_해커톤
-# 팀명<A:live팀>
+# <A:live팀>
 
 - 구성원
     
